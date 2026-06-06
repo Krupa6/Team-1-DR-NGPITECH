@@ -32,58 +32,7 @@ Stay aligned with rapidly evolving AI-driven careers
 
 # System Architecture
 
-Student Login
-
-      │
-      
-      ▼
-      
-Career Goal Selection
-
-      │
-      
-      ▼
-      
-AI Skill Assessment
-
-      │
-      
-      ▼
-      
-Project Portfolio Upload
-
-      │
-      
-      ▼
-      
-AI Analysis Engine
-
-      │
-      
-      ▼
-      
-Skill Level Classification
-(Beginner / Intermediate / Advanced)
-
-      │
-      ▼
-      
-Personalized Career Roadmap
-
-      │
-      ▼
-      
-Project Recommendations
-
-      │
-      ▼
-      
-Mentor Recommendations
-
-      │
-      ▼
-      
-Student Dashboard
+<img width="337" height="500" alt="image" src="https://github.com/user-attachments/assets/ff42bef1-d24a-4058-8209-6121b6b7c7dc" />
 
 
 # Student Side
