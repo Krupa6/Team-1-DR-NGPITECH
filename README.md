@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # AI Future Campus 🎓
 
 An AI-powered career guidance platform for students to discover their career path, assess their skills, and get personalized roadmaps from experienced mentors.
@@ -402,3 +404,49 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 ---
 
 **Built with ❤️ for students pursuing tech careers**
+
+<img width="337" height="500" alt="image" src="https://github.com/user-attachments/assets/ff42bef1-d24a-4058-8209-6121b6b7c7dc" />
+
+# Student Side
+
+Authentication
+
+Login Page
+
+Registration Page
+
+Forgot Password Page
+
+Career Module
+
+Career Goal Selection Page
+
+Skill Assessment Page
+
+Portfolio Module
+
+Portfolio Upload Page
+
+Project Management Page
+
+Dashboard Module
+
+Student Dashboard
+
+Progress Tracker
+
+Recommendations Page
+
+# Mentor Side
+
+Mentor Dashboard
+
+Assigned Students
+
+Student Progress Monitoring
+
+Feedback Submission
+
+Project Evaluation
+
+> > > > > > > origin/main
