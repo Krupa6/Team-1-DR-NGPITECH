@@ -33,57 +33,98 @@ Stay aligned with rapidly evolving AI-driven careers
 # System Architecture
 
 Student Login
+
       │
+      
       ▼
+      
 Career Goal Selection
+
       │
+      
       ▼
+      
 AI Skill Assessment
+
       │
+      
       ▼
+      
 Project Portfolio Upload
+
       │
+      
       ▼
+      
 AI Analysis Engine
+
       │
+      
       ▼
+      
 Skill Level Classification
 (Beginner / Intermediate / Advanced)
+
       │
       ▼
+      
 Personalized Career Roadmap
+
       │
       ▼
+      
 Project Recommendations
+
       │
       ▼
+      
 Mentor Recommendations
+
       │
       ▼
+      
 Student Dashboard
+
 
 # Student Side
 
 Authentication
+
 Login Page
+
 Registration Page
+
 Forgot Password Page
+
 Career Module
+
 Career Goal Selection Page
+
 Skill Assessment Page
+
 Portfolio Module
+
 Portfolio Upload Page
+
 Project Management Page
+
 Dashboard Module
+
 Student Dashboard
+
 Progress Tracker
+
 Recommendations Page
 
 # Mentor Side
 
 Mentor Dashboard
+
 Assigned Students
+
 Student Progress Monitoring
+
 Feedback Submission
+
 Project Evaluation
 
